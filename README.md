@@ -1,7 +1,7 @@
 # 👋 Hi ! This is AlleyCC
 ### *A newbie in software world.*
 ______________________________
-🌱 On the way to become a front-end engineer，still learning on HTML, CSS, Javascript! 
+🌱 On the way to become a front-end engineer，still learning on HTML, CSS, and Javascript! 
 
  :mag_right: Find me on ...
     
